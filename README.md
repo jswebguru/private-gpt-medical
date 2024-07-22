@@ -13,7 +13,10 @@
 
 ![Gradio UI](/fern/docs/assets/ui.png?raw=true)
 
-PrivateGPT is a production-ready AI project that allows you to ask questions about your documents using the power
+In the medical field, the data privacy must be concerned and because of this issue, the LLMs are not used in this field.
+So in this repository we focused to maintain the data privacy for the secure.
+
+PrivateGPT-medical is a production-ready AI project that allows you to ask questions using the power
 of Large Language Models (LLMs), even in scenarios without an Internet connection. 100% private, no data leaves your
 execution environment at any point.
 
