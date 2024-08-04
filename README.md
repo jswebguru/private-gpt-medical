@@ -7,9 +7,6 @@
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ZylonPrivateGPT)](https://twitter.com/ZylonPrivateGPT)
 
 
-> Install & usage docs: https://docs.privategpt.dev/
-> 
-> Join the community: [Twitter](https://twitter.com/ZylonPrivateGPT) & [Discord](https://discord.gg/bK6mRVpErU)
 
 ![Gradio UI](/fern/docs/assets/ui.png?raw=true)
 
