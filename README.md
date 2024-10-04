@@ -1,4 +1,4 @@
-# 🔒 PrivateGPT 📑
+# 🔒 PrivateGPT 📑-RAG-Pinecone-LlamaIndex
 
 ![Gradio UI](/fern/docs/assets/ui.png?raw=true)
 PyQT, FastAPI
