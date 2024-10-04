@@ -1,17 +1,17 @@
 # 🔒 PrivateGPT 📑
 
 ![Gradio UI](/fern/docs/assets/ui.png?raw=true)
+PyQT, FastAPI
 
-In the medical field, the data privacy must be concerned and because of this issue, the LLMs are not used in this field.
-So in this repository we focused to maintain the data privacy for the secure.
+In the medical field, data privacy is a significant concern, preventing the widespread use of LLMs in this area. To address this issue, our repository is focused on maintaining data privacy securely.
 
-PrivateGPT-medical is a production-ready AI project that allows you to ask questions using the power
-of Large Language Models (LLMs), even in scenarios without an Internet connection. 100% private, no data leaves your
-execution environment at any point.
+PrivateGPT-medical is a production-ready AI project that enables you to ask questions using the power of Large Language Models (LLMs), even in scenarios without an Internet connection. It ensures 100% privacy, ensuring no data leaves your execution environment at any point.
 
 The project provides an API offering all the primitives required to build private, context-aware AI applications.
 It follows and extends the [OpenAI API standard](https://openai.com/blog/openai-api),
 and supports both normal and streaming responses.
+
+Additionally, we leverage Pinecone for efficient vector search capabilities and data management within this project.
 
 The API is divided into two logical blocks:
 
