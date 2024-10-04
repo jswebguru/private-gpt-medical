@@ -11,7 +11,7 @@ The project provides an API offering all the primitives required to build privat
 It follows and extends the [OpenAI API standard](https://openai.com/blog/openai-api),
 and supports both normal and streaming responses.
 
-Additionally, we leverage Pinecone for efficient vector search capabilities and data management within this project.
+Additionally, we leverage `Pinecone` for efficient `vector search` capabilities and data management within this project.
 
 The API is divided into two logical blocks:
 
